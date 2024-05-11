@@ -23,4 +23,4 @@ mejor_actor VARCHAR(200) NOT NULL,
 mejor_actriz VARCHAR(200) NOT NULL,
 PRIMARY KEY (id_ceremonia));
 
-DROP table oscars2;
+DROP table oscars2; 
