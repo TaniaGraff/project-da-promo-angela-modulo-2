@@ -3254,8 +3254,15 @@ titulo MEDIUMTEXT
 
 
 ALTER TABLE detalles_peliculas
-DROP PRIMARY KEY,
+DROP PRIMARY KEY;
+
+ALTER TABLE detalles_peliculas
 ADD PRIMARY KEY (titulo);
+
+-- modificar el tipo de dato
+
+ALTER TABLE detalles_peliculas
+MODIFY COLUMN titulo varchar(255);
 
 
 
