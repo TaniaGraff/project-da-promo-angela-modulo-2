@@ -2,18 +2,8 @@ CREATE SCHEMA CinemaExtract;
 
 USE CinemaExtract;
 
-CREATE table oscars(
-id_ceremonia INT NOT NULL AUTO_INCREMENT,
-año_ceremonia INT NOT NULL,
-mejor_pelicula VARCHAR(200) NOT NULL,
-id_pelicula INT NOT NULL,
-mejor_director VARCHAR(200) NOT NULL,
-id_director INT NOT NULL,
-mejor_actor VARCHAR(200) NOT NULL,
-id_actor INT NOT NULL,
-mejor_actriz VARCHAR(200) NOT NULL,
-id_actiz INT NOT NULL,
-PRIMARY KEY (id_ceremonia));
+-- FASE 1
+
 
 CREATE TABLE peliculas_generos(
 	Id_pelicula INT NOT NULL auto_increment,
@@ -25,6 +15,26 @@ CREATE TABLE peliculas_generos(
     Genero VARCHAR(200),
     PRIMARY KEY (Id_pelicula)
 );
+
+
+-- eliminar y cambiar PK
+
+
+ALTER TABLE peliculas_generos
+DROP PRIMARY KEY,
+CHANGE Id_pelicula Id_pelicula INT NOT NULL,
+ADD PRIMARY KEY (ID);
+
+
+
+-- eliminar FK
+ALTER TABLE peliculas_generos DROP FOREIGN KEY fk_peliculas_generos_detalles;
+
+-- agregar FK
+
+ALTER TABLE peliculas_generos
+ADD CONSTRAINT fk_peliculas_generos_detalles FOREIGN KEY (Titulo) REFERENCES detalles_peliculas(id_pelicula);
+
 
 INSERT INTO peliculas_generos(Tipo, Titulo, Anio, Mes, ID, Genero)
 VALUES
@@ -3201,6 +3211,9 @@ mejor_actor VARCHAR(200) NOT NULL,
 mejor_actriz VARCHAR(200) NOT NULL,
 PRIMARY KEY (id_ceremonia));
 
+
+-- Fase 4
+
 INSERT INTO oscars2(año_ceremonia, mejor_pelicula, mejor_director, mejor_actor, mejor_actriz)
 VALUES 
 (2015, ' Birdman or (The Unexpected Virtue of Ignorance)', ' A. G. Inarritu', 'E. Redmayne',' J. Moore'),
@@ -3209,6 +3222,20 @@ VALUES
 (2018, ' The Shape of Water', ' G. del Toro', 'G. Oldman', ' F. McDormand'),
 (2019, ' Green Book', ' A. Cuaron', 'R. Malek', ' O. Colman'),
 (2020, ' Parasite', ' Bong J.', 'J. Phoenix', ' R. Zellweger');
+
+
+
+
+ALTER TABLE oscars2 DROP PRIMARY KEY;
+
+
+ALTER TABLE oscars2
+ADD CONSTRAINT PK_mejor_director
+PRIMARY KEY (mejor_director);
+
+
+ALTER TABLE oscars2
+ADD CONSTRAINT fk_oscars2 FOREIGN KEY () REFERENCES oscars2(id_ceremonia);
 
 -- Fase 2
 CREATE table detalles_peliculas(
@@ -3222,3 +3249,13 @@ genero VARCHAR(255),
 duracion INT,
 titulo MEDIUMTEXT
 );
+
+-- eliminar y cambiar PK
+
+
+ALTER TABLE detalles_peliculas
+DROP PRIMARY KEY,
+ADD PRIMARY KEY (titulo);
+
+
+
