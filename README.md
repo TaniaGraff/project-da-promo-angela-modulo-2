@@ -12,10 +12,15 @@ Elena Águila, Vanesa Díaz, Valentina Fisher, Tania Graff y Franca Tortarolo.
 En esta fase se utilizó la API de MovieDataSet para extraer información de peliculas y cortos entre los años 2015-2020.
  
     - Tipo (si es corto o película).
+
     - Nombre de la película o el corto.
+
     - Año de estreno de la película o corto.
+
     - Mes de estreno de la película o corto.
+
     - Id de la película (Identificativo de IMDB)
+
     - Género: Drama, Comedy, Action, Fantasy, Horror, Mystery, Romance, Thriller.
 
 ### Fase 2: 
@@ -24,10 +29,15 @@ En esta fase se utilizó la API de MovieDataSet para extraer información de pel
 En esta fase se ha obtenido información de las peliculas y cortos extraidos de la FASE 1. Mediante la ténica Selenium se ha obtenido la siguiente información de la página IMDB: 
 
     - Puntuacion de IMDB (en caso de que la tenga).
+
     - Dirección (director/a o directore/as de cada película).
+
     - Guionistas (de cada película).
+
     - Argumento.
+
     - Duración (en minutos).
+
     - Nombre de la película.
 
 
@@ -36,9 +46,13 @@ En esta fase se ha obtenido información de las peliculas y cortos extraidos de 
 En esta fase se ha obtenido información detallada de los 10 principales actores de cada una de las peliculas extraidas en la fase 1 utilizando Selenium. Dicha información se ha obtenido de la página de IMDB.
 
     - Nombre
+
     - Año de nacimiento
+
     - ¿Por qué es conocido?
+
     - ¿Qué hace?
+    
     - Premios
 
 ### Fase 4:
@@ -46,9 +60,13 @@ En esta fase se ha obtenido información detallada de los 10 principales actores
 En esta fase se trabajó con la biblioteca Beautiful Soup para extrar información relevante de la tabla de los premios Oscars desde 2015 hasta 2020. La tabla fue extraída del siguiente link: https://es.wikipedia.org/wiki/Premios_Óscar 
    
     - Fecha de la ceremonia
+
     - Mejor película
+
     - Mejor director
+
     - Mejor actor
+
     - Mejor actriz 
 
     
