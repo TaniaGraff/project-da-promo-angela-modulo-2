@@ -52,7 +52,7 @@ En esta fase se ha obtenido información detallada de los 10 principales actores
     - ¿Por qué es conocido?
 
     - ¿Qué hace?
-    
+
     - Premios
 
 ### Fase 4:
@@ -86,9 +86,9 @@ En esta fase se realizaron consultas SQL para recuperar información específica
 
     - ¿Qué género es el mejor valorado en IMDB?
 
-    - ¿En que año se estrenaron más películas?
+    - ¿En qué año se estrenaron más películas?
 
-    - ¿En que año se estrenaron mas cortos?
+    - ¿En qué año se estrenaron mas cortos?
 
     - ¿Cuál es la mejor serie valorada en IMDB?
 
