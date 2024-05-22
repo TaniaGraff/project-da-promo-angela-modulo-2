@@ -14,7 +14,7 @@ El proyecto consta de 7 fases, que van desde la extracción de datos de diversas
 
 ### Fase 1
 
-En esta fase se utilizó la API de MovieDataSet para extraer información de peliculas y cortos entre los años 2015-2020.
+En esta fase se utilizó la API de MovieDataSet para extraer información de peliculas y cortos entre los años 2015-2020. 
  
     - Tipo (si es corto o película).
 
