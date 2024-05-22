@@ -30,7 +30,7 @@ En esta fase se utilizó la API de MovieDataSet para extraer información de pel
 
 ### Fase 2
 
-En esta fase se obtuvo información más detallada sobre las peliculas y cortos extraidos durante la FASE 1. Utilizando Selenium como herramienta, se accedió a la siguiente información de la página web IMDB.
+En esta fase se obtuvo información más detallada sobre las peliculas y cortos extraidos durante la FASE 1. Utilizando Selenium como herramienta, se accedió a la siguiente información de la página web de IMDB.
 
     - Puntuacion de IMDB (en caso de que la tenga).
 
@@ -61,7 +61,7 @@ En esta fase se obtuvo información detallada de los 10 principales actores de c
 
 ### Fase 4
 
-En esta fase se trabajó con la biblioteca Beautiful Soup para extrar información de la tabla de los premios Oscars desde 2015 hasta 2020. La tabla fue extraída del siguiente link: [link_pagina](https://es.wikipedia.org/wiki/Premios_Óscar)
+En esta fase se trabajó con la biblioteca Beautiful Soup para extrar información de la tabla de los premios Oscars desde 2015 hasta 2020. La tabla fue extraída del siguiente página web: [link_pagina](https://es.wikipedia.org/wiki/Premios_Óscar)
    
     - Fecha de la ceremonia
 
