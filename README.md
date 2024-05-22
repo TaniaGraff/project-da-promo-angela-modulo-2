@@ -1,13 +1,18 @@
-# Repo_CinemExtract
-Repositorio Proyecto CinemExtract: Explorando el Séptimo Arte a través de Datos y Tecnología.
+# Proyecto CinemExtract
+Explorando el Séptimo Arte a través de Datos y Tecnología.
 
 *Equipo de desarrollo*: 
 Elena Águila, Vanesa Díaz, Valentina Fisher, Tania Graff y Franca Tortarolo.
 
+## Resumen del Proyecto
+Identificar las películas y cortos más populares de los años 2015 a 2020, basándonos en criterios como las calificaciones o los premios recibidos, con el objetivo de proporcionar recomendaciones específicas para la promoción del contenido más relevante dentro de la plataforma de streaming BHO.
 
-## El trabajo consta de 7 fases:
+![imagen_portada_repo](portada_repo.png)
 
-### Fase 1:
+## Fases del proyecto
+El proyecto consta de 7 fases, que van desde la extracción de datos de diversas plataformas online utilizando diferentes técnicas de web scraping, hasta la creación de una BBDD propia donde se realizaron las consultas y el análisis de los datos extraídos. 
+
+### Fase 1
 
 En esta fase se utilizó la API de MovieDataSet para extraer información de peliculas y cortos entre los años 2015-2020.
  
@@ -23,10 +28,9 @@ En esta fase se utilizó la API de MovieDataSet para extraer información de pel
 
     - Género: Drama, Comedy, Action, Fantasy, Horror, Mystery, Romance, Thriller.
 
-### Fase 2: 
+### Fase 2
 
-
-En esta fase se ha obtenido información de las peliculas y cortos extraidos de la FASE 1. Mediante la ténica Selenium se ha obtenido la siguiente información de la página IMDB: 
+En esta fase se obtuvo información más detallada sobre las peliculas y cortos extraidos durante la FASE 1. Utilizando Selenium como herramienta, se accedió a la siguiente información de la página web IMDB.
 
     - Puntuacion de IMDB (en caso de que la tenga).
 
@@ -41,9 +45,9 @@ En esta fase se ha obtenido información de las peliculas y cortos extraidos de 
     - Nombre de la película.
 
 
-### Fase 3: 
+### Fase 3 
 
-En esta fase se ha obtenido información detallada de los 10 principales actores de cada una de las peliculas extraidas en la fase 1 utilizando Selenium. Dicha información se ha obtenido de la página de IMDB.
+En esta fase se obtuvo información detallada de los 10 principales actores de cada una de las peliculas extraidas durante la FASE 1 utilizando Selenium como herramienta. La información se obtuvo de la página web de IMDB.
 
     - Nombre
 
@@ -55,9 +59,9 @@ En esta fase se ha obtenido información detallada de los 10 principales actores
 
     - Premios
 
-### Fase 4:
+### Fase 4
 
-En esta fase se trabajó con la biblioteca Beautiful Soup para extrar información relevante de la tabla de los premios Oscars desde 2015 hasta 2020. La tabla fue extraída del siguiente link: https://es.wikipedia.org/wiki/Premios_Óscar 
+En esta fase se trabajó con la biblioteca Beautiful Soup para extrar información de la tabla de los premios Oscars desde 2015 hasta 2020. La tabla fue extraída del siguiente link: [link_pagina](https://es.wikipedia.org/wiki/Premios_Óscar)
    
     - Fecha de la ceremonia
 
@@ -72,15 +76,15 @@ En esta fase se trabajó con la biblioteca Beautiful Soup para extrar informaci�
     
 ### Fase 5: 
 
-En esta fase se pensó la estructura de una base de datos donde se almacenó toda la información recopilada, a través de tablas y conectándolas entre sí.
+En esta fase se pensó la estructura de una Base de Datos donde se almacenó toda la información recopilada, a través de tablas conectadas entre sí.
 
 ### Fase 6: 
 
-En esta fase se insertaron todos los datos en la base de datos, que fue diseñada en la fase 5.
+En esta fase se insertaron todos los datos en la Base de Datos diseñada durante la FASE 5.
 
 ### Fase 7:
 
-En esta fase se realizaron consultas SQL para recuperar información específica:
+En esta útlima fase se realizaron consultas SQL para recuperar información específica y responder a las siguientes preguntas:
 
     - ¿Qué géneros han recibido más premios Óscar?
 
@@ -103,3 +107,5 @@ En esta fase se realizaron consultas SQL para recuperar información específica
     - Encontrar películas dirigidas por un director en particular
 
     - Obtener una lista de películas fanadoras de un premio Oscar en una categoría específica
+
+Por último, se elaboraron las conclusiones que han permitido al equipo proporcionar recomendaciones específicas para la promoción de contenido en la plataforma BHO.
