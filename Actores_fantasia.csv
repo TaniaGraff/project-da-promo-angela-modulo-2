@@ -1,92 +1,110 @@
 ,Nombre,Anyo Nacimiento,Conocido Por,Que hace,Premios ganados
-0,Marina Janhunen Calderón,No info,"['Star Wars: The Dark Empire', 'Star Wars: Qui-Gon Jinn III', 'Némesis de Clank']","['Reparto', 'Producción', 'Cámara y electricidad']",No ha ganado premios
-1,Emilio Janhunen Calderón,No info,"['Némesis de Clank', ""Rinoplasticos: A Warrior's Journey"", 'Clank and Goldscar']","['Reparto', 'Dirección', 'Producción']",No ha ganado premios
-2,Alvaro Calderón Sr.,No info,"['El Resplandor del Brillante en los Ojos Dormidos en La Mariguana', 'Rinoplasticos III', 'Rinoplasticos IV']","['Reparto', 'Guion', 'Producción']",No ha ganado premios
-3,Andrés Calderón,No info,"[""Rinoplasticos: A Warrior's Journey"", 'Rinoplasticos III', 'Clank: El mosaico rojo']","['Reparto', 'Dirección de fotografía y cámara', 'Producción']",No ha ganado premios
-4,Charlie Cakes,No info,"['Bekah', 'An Absent Dream', 'Mind Games']","['Reparto', 'Guion', 'Producción']",No ha ganado premios
-5,Baro,No info,"[""God's Gift: 14 Days"", 'Eung-dab-ha-ra 1994', 'Aenggeurimam']","['Reparto', 'Banda sonora']",no info
-6,Fred Aaron Blake,1968,"['Ha vuelto', 'El escritor', 'Oh Boy']",['Reparto'],no info
-7,Travis Fimmel,1979,"['Warcraft: El origen', 'Vikingos', 'Forajidos de Baytown']","['Reparto', 'Producción']",no info
-8,Allie Marie Evans,1996,"['El viaje de Max', '47 Hours', 'Chapter 51']",['Reparto'],No ha ganado premios
-9,Patrick Johnson,No info,"['Sabotage', 'Más allá del amor', 'Terapia de choque']","['Reparto', 'Cámara y electricidad', 'Producción']",no info
-10,Alexander Skarsgård,1976,"['La leyenda de Tarzán', 'Big Little Lies', 'True Blood']","['Reparto', 'Producción', 'Dirección']",['15']
-11,Adam Greaves-Neal,No info,"['El joven mesías', 'Johnny English de nuevo en acción', 'Sherlock']",['Reparto'],['2']
-12,Salazar Alejandro,No info,"['Panspermia, la semilla del todo', 'No info', 'No info']",['Reparto'],No ha ganado premios
-13,Martinez Miguel,No info,"['Mafia en Chicago', 'Panspermia, la semilla del todo', 'No info']",['Reparto'],No ha ganado premios
-14,Mehdi Aliyev,No info,"['Kendistan 2', 'Unfriended', 'No info']",['Reparto'],No ha ganado premios
-15,David Bonsell,No info,"['Tierra de leche y miel', 'En El Valle De Gigantes', 'No info']",['Reparto'],No ha ganado premios
-16,Leonel Leyva,No info,"['Esta historia me suena', 'En El Valle De Gigantes', 'No info']",['Reparto'],No ha ganado premios
-17,Ana Ramirez,No info,"['En El Valle De Gigantes', 'Art Attack: Modo desafío', 'No info']",['Reparto'],No ha ganado premios
-18,Jordan Brown,No info,"['Let Fall the Rain', 'Storage Unit', 'Red River']","['Producción', 'Dirección de la segunda unidad o asistencia a dirección', 'Dirección']",No ha ganado premios
-19,Zuri Shafer,No info,"['Dull Boy', 'Answer Me: III', '88A-12']","['Dirección', 'Dirección de fotografía y cámara', 'Guion']",['7']
-20,Ana Ramirez,No info,"['En El Valle De Gigantes', 'Art Attack: Modo desafío', 'No info']",['Reparto'],No ha ganado premios
-21,Katerina Dawson,No info,"['Harbinger', 'Grief', 'Wasted']","['Reparto', 'Producción', 'Sonido']",No ha ganado premios
-22,Cathryn Zambryscka,No info,"['Blindness', 'A Little Monster Movie', 'Mother Knows Best']",['Reparto'],No ha ganado premios
-23,Adam Stainthorpe,No info,"['Number 6', 'The Little Count', 'No info']",['Reparto'],No ha ganado premios
-24,Peter Cottle,No info,"['Number 6', 'No info', 'No info']",No info,No ha ganado premios
-25,Jennifer Gothuey,No info,"['Au bord du gouffre', 'Escamotage', 'No info']",['Reparto'],No ha ganado premios
-26,Nathan Lepiller,No info,"['Guermantes', 'Plumas', 'Habitación 212']","['Reparto', 'Equipos adicionales']",No ha ganado premios
-27,Philippe Rivière,No info,"['Au bord du gouffre', 'No info', 'No info']",['Reparto'],No ha ganado premios
-28,Leire Altamira,No info,"['E-mocion', 'No info', 'No info']",['Reparto'],No ha ganado premios
-29,Maite Ezcurra,No info,"['David Bisbal: Ajedrez', 'E-mocion', 'No info']",['Reparto'],No ha ganado premios
-30,Lydia Martínez,No info,"['E-mocion', 'No info', 'No info']",['Reparto'],No ha ganado premios
-31,Estelle Chen,No info,"['Lian hua lou', 'Fairyland Lovers', 'Qie Ting Feng Ming']",['Reparto'],no info
-32,Maite Ezcurra,No info,"['David Bisbal: Ajedrez', 'E-mocion', 'No info']",['Reparto'],No ha ganado premios
-33,Lydia Martínez,No info,"['E-mocion', 'No info', 'No info']",['Reparto'],No ha ganado premios
-34,Chakradhar Dittakavi,No info,"['Ee Shruthi Lo', 'No info', 'No info']",['Reparto'],No ha ganado premios
-35,Venkatesh Kanupuru,No info,"['Ee Shruthi Lo', 'Nindu Chandrudu', 'No info']",['Reparto'],No ha ganado premios
-36,Olga Mandrikova Lanceray,No info,"['Region', 'Aquarius', 'Black Square']","['Producción', 'Reparto']",No ha ganado premios
-37,Leo Willems,No info,"['Trollie', 'Trollie: The Great Rescue', 'No info']",['Reparto'],No ha ganado premios
-38,Pauline Bas,No info,"['Trollie', 'COCON', 'De vloer op jr.']",['Reparto'],No ha ganado premios
-39,Kees Boot,1970,"['Overspel (TV Series) (Serie de TV)', 'De afdeling', 'Floor Faber']",['Reparto'],no info
-40,Parry Glasspool,1992,"['The Batman', 'Hollyoaks', 'Hollyoaks Later']",['Reparto'],no info
-41,Luis Alarcón,1929,"['Estúpido Cupido', 'La fiera', 'Témpano']","['Reparto', 'Efectos especiales', 'Producción']",['4']
-42,John Goodman,1952,"['Calle Cloverfield 10', 'Barton Fink', 'Argo']","['Reparto', 'Producción', 'Banda sonora']",['33']
-43,Gal Gadot,1985,"['Wonder Woman', 'Alerta roja', 'Wonder Woman 1984']","['Reparto', 'Producción', 'Banda sonora']",['32']
-44,Mikalai Radziush,No info,"['Aquarius', 'Black Square', 'No info']",['Reparto'],No ha ganado premios
-45,Ben Affleck,1972,"['Argo', 'Perdida', 'The Town: Ciudad de ladrones']","['Producción', 'Reparto', 'Guion']",['75']
-46,Tim Burleson,No info,"['Excalibur Too', 'Burrito Tuesday!', 'Hamfisted']",['Reparto'],No ha ganado premios
-47,Calvin Henson Jr.,No info,"['Alone in the Dark', 'All in the Family', 'Joe Haladin: The Case of the Missing Sister']","['Cámara y electricidad', 'Reparto', 'Producción']",no info
-48,Lilly Mae Stover,No info,"['This Bloody Country', 'Lex Talionis', 'Navidades con encanto']",['Reparto'],No ha ganado premios
-49,Danielle Wolverton,No info,"['War Stories', 'The Hunting Trip', 'The Eyes of Isabelle']",['Reparto'],No ha ganado premios
-50,Le Duy Anh,No info,"['Our friendship is extremely Big', 'Iron-Lipstick', 'Hannah']","['Reparto', 'Guion', 'Producción']",No ha ganado premios
-51,Hannah Bui,No info,"['Hannah', 'Wayless', 'No info']",No info,No ha ganado premios
-52,Katerina Dawson,No info,"['Harbinger', 'Grief', 'Wasted']","['Reparto', 'Producción', 'Sonido']",No ha ganado premios
-53,Ted Kist,No info,"['Leveler', 'No info', 'No info']",['Reparto'],No ha ganado premios
-54,Johanna Anne Valentine,No info,"['Writers Block Virginia Beach', 'Halloween Metal Detecting', 'On My Boat']","['Reparto', 'Edición', 'Producción']",No ha ganado premios
-55,Adler Wheatley,No info,"['Blue Horizon', 'The Making Of', 'Cheetah Run']",['Reparto'],No ha ganado premios
-56,Edward King Thompson,No info,"['Vanguards', 'Searching Malware', 'Egregore']","['Reparto', 'Dirección', 'Guion']",no info
-57,Kara Anderson,No info,"[""Strong Hawk: My Sister's Keeper"", 'Hunting Season', 'Family First the Marshawn Lynch Story']","['Reparto', 'Vestuario']",No ha ganado premios
-58,Yôsuke Eguchi,1967,"['Kenshin, el guerrero samurái', 'Goemon', 'Kenshin, el guerrero samurai 2 Infierno en Kioto']",['Reparto'],No ha ganado premios
-59,Rie Kugimiya,1979,"['Fullmetal Alchemist: La película - El conquistador de Shamballa', 'Fairy Tail: La Sacerdotisa del Fénix', 'Gintama']","['Reparto', 'Música', 'Banda sonora']",no info
-60,Chen Chaolang,No info,"['Xue ji chuan', 'Ni hao, xi xue gui xiao jie', 'No info']",['Reparto'],No ha ganado premios
-61,Ming Wang,No info,"['Xu ni shi jie', 'Yilu bu xiaoting', 'Xue ji chuan']",['Reparto'],no info
-62,Connie Castanzo,No info,"['Pororo, Dinosaur Island Adventure', 'The Raft', 'Cauliflower']",['Reparto'],No ha ganado premios
-63,Ryan Guess,No info,"['The Heller Awards', 'The Heller Awards', 'Herd']","['Reparto', 'Producción', 'Dirección']",No ha ganado premios
-64,Jon Heder,1977,"['Napoleon Dynamite', 'Patinazo a la gloria', 'Los calientabanquillos']","['Reparto', 'Producción', 'Equipo ejecutivo']",['8']
-65,Lee Jason,No info,"['Free Fire', 'Cliches', 'Dancer In The Pocket']","['Reparto', 'Cámara y electricidad']",No ha ganado premios
-66,Guðsteinn Fannar Ellertsson,No info,"['Rocco', 'Skinny Love', 'Bajo el sótano']","['Reparto', 'Guion', 'Cámara y electricidad']",No ha ganado premios
-67,Þórhildur Kristín Lárentsínusdóttir,No info,"['Þar sem vondir verða að vera', 'Hittarar og Krittarar', 'No info']",['Reparto'],No ha ganado premios
-68,Óskar Þór Hauksson,No info,"['La mujer de la montaña', 'Skinny Love', 'Þrot']","['Localización', 'Equipos adicionales', 'Reparto']",No ha ganado premios
-69,Kristmundur Ari Gíslason,No info,"['Agente Stone', 'Kraven el cazador', 'Asesinato en el fin del mundo']","['Cámara y electricidad', 'Reparto']",No ha ganado premios
-70,Lára Kristín Margrétar-Óskarsdóttir,No info,"['Rocco', 'Hittarar og Krittarar', 'No info']","['Reparto', 'Guion']",No ha ganado premios
-71,Theodóra Gríma Þrastardóttir,No info,"['Hittarar og Krittarar', 'No info', 'No info']",['Reparto'],No ha ganado premios
-72,Vincent Gosselin,No info,"['Féérique', 'No info', 'No info']",['Reparto'],No ha ganado premios
-73,Emile Landriau,No info,"['Thor: Love and Thunder', '¡Scooby!', '¡Nos volvemos a casa!']","['Animación', 'Reparto', 'Efectos visuales']",no info
-74,Óskar Þór Hauksson,No info,"['La mujer de la montaña', 'Skinny Love', 'Þrot']","['Localización', 'Equipos adicionales', 'Reparto']",No ha ganado premios
-75,Kristmundur Ari Gíslason,No info,"['Agente Stone', 'Kraven el cazador', 'Asesinato en el fin del mundo']","['Cámara y electricidad', 'Reparto']",No ha ganado premios
-76,Lára Kristín Margrétar-Óskarsdóttir,No info,"['Rocco', 'Hittarar og Krittarar', 'No info']","['Reparto', 'Guion']",No ha ganado premios
-77,Theodóra Gríma Þrastardóttir,No info,"['Hittarar og Krittarar', 'No info', 'No info']",['Reparto'],No ha ganado premios
-78,Taylor Huff,No info,"['Time Management', 'No info', 'No info']",['Reparto'],No ha ganado premios
-79,Yuliiya Barbashova,No info,"['Pollen', 'No info', 'No info']",['Reparto'],No ha ganado premios
-80,Emily Wyman,No info,"['Gift', 'Assassinaut', 'Emerge']","['Reparto', 'Localización', 'Equipos adicionales']",No ha ganado premios
-81,Laki Karavias,No info,"['The Night I Left America', '35 Years to the Moon', ""Messania's Story""]","['Dirección', 'Edición', 'Guion']",['2']
-82,Jonathan Adonai,No info,"['Tobias: Los videos perdidos', 'El Charro', '¿Quién mató al tío Aurelio?']",['Reparto'],No ha ganado premios
-83,Atilano del Angel,No info,"['El Encanto de la Oscuridad: Parte 1', 'Tobias: Los videos perdidos', '¿Quién mató al tío Aurelio?']",['Reparto'],No ha ganado premios
-84,Alejandra Estrada,No info,"['El Encanto de la Oscuridad: Parte 1', 'Andriev & Selene La Expulsión De Los Vampiros', 'Tobias: Los videos perdidos']",['Reparto'],No ha ganado premios
-85,Berenice Ornelas,No info,"['Tobias: Los videos perdidos', '¿Quién mató al tío Aurelio?', 'No info']",['Reparto'],No ha ganado premios
-86,Aline Suarez,No info,"['El Encanto de la Oscuridad: Parte 2', 'El Encanto de la Oscuridad: Parte 1', 'Tobias: Los videos perdidos']",['Reparto'],No ha ganado premios
-87,Aaron Green,No info,"['Blueface Feat. DaBaby: Obama', 'Anamnesis of the Divine', 'No info']","['Reparto', 'Producción']",No ha ganado premios
-88,Alex Seradj,No info,"['Wild Fire', 'Anamnesis of the Divine', 'No info']","['Dirección', 'Reparto', 'Guion']",No ha ganado premios
-89,Mason Dodson,No info,"['Going Over Home', 'The Resort', 'Stripping with Confetti']","['Reparto', 'Dirección']",No ha ganado premios
-90,Addie Wilder Smith,No info,"['Stripping with Confetti', 'No info', 'No info']",['Reparto'],No ha ganado premios
+0,Marina Janhunen Calderon,No info,"Star Wars: The Dark Empire, Star Wars: Qui-Gon Jinn III, Nemesis de Clank","Reparto, Produccion, Camara y electricidad",0
+1,Alvaro Grobet Calderon,No info,"Clank: El mosaico rojo, Rinoplasticos: A Warrior's Journey, Clank: Legado de las sombras","Reparto, Produccion, Musica",0
+2,Pablo Calderon Ramirez,No info,"Rinoplasticos VI, Heroes del destino, Rinoplasticos IV","Reparto, Produccion, Equipos adicionales",0
+3,Gabriel Calderon Ramirez,No info,"Rinoplasticos: A Warrior's Journey, The Paths of Kripto, Yo Soy Nestor","Reparto, Equipos adicionales, Guion",0
+4,Tadeo Jones,No info,"Heroes del destino: Renacimiento, Heroes del destino, Hombre Calzon",Reparto,0
+5,Charlie Cakes,No info,"Bekah, An Absent Dream, Mind Games","Reparto, Guion, Produccion",0
+6,Baro,No info,"God's Gift: 14 Days, Eung-dab-ha-ra 1994, Aenggeurimam","Reparto, Banda sonora",0
+7,Fred Aaron Blake,1968,"Ha vuelto, El escritor, Oh Boy",Reparto,0
+8,Travis Fimmel,1979,"Warcraft: El origen, Vikingos, Forajidos de Baytown","Reparto, Produccion",0
+9,Allie Marie Evans,1996,"El viaje de Max, 47 Hours, Chapter 51",Reparto,0
+10,Patrick Johnson,No info,"Sabotage, Mas alla del amor, Terapia de choque","Reparto, Camara y electricidad, Produccion",0
+11,Alexander Skarsgard,1976,"La leyenda de Tarzan, Big Little Lies, True Blood","Reparto, Produccion, Direccion",15
+12,Adam Greaves-Neal,No info,"El joven mesias, Johnny English de nuevo en accion, Sherlock",Reparto,2
+13,Dahn Helfman,No info,"Lair of Dragon, Mind Games, No info",Reparto,0
+14,Salazar Alejandro,No info,"Panspermia, la semilla del todo, No info, No info",Reparto,0
+15,Limones Edna,No info,"Panspermia, la semilla del todo, No info, No info",Reparto,0
+16,Martinez Miguel,No info,"Mafia en Chicago, Panspermia, la semilla del todo, No info",Reparto,0
+17,Mehdi Aliyev,No info,"Kendistan 2, Unfriended, No info",Reparto,0
+18,Namiq Aslanov,No info,"Unfriended, No info, No info",Reparto,0
+19,David Bonsell,No info,"Tierra de leche y miel, En El Valle De Gigantes, No info",Reparto,0
+20,Leonel Leyva,No info,"Esta historia me suena, En El Valle De Gigantes, No info",Reparto,0
+21,Santiago Leyva,No info,"En El Valle De Gigantes, No info, No info",Reparto,0
+22,Ana Ramirez,No info,"En El Valle De Gigantes, Art Attack: Modo desafio, No info",Reparto,0
+23,Emilio Torres,No info,"En El Valle De Gigantes, No info, No info",Reparto,0
+24,Jordan Brown,No info,"Let Fall the Rain, Storage Unit, Red River","Produccion, Direccion de la segunda unidad o asistencia a direccion, Direccion",0
+25,Zuri Shafer,No info,"Dull Boy, Answer Me: III, 88A-12","Direccion, Direccion de fotografia y camara, Guion",7
+26,Santiago Leyva,No info,"En El Valle De Gigantes, No info, No info",Reparto,0
+27,Ana Ramirez,No info,"En El Valle De Gigantes, Art Attack: Modo desafio, No info",Reparto,0
+28,Emilio Torres,No info,"En El Valle De Gigantes, No info, No info",Reparto,0
+29,Katerina Dawson,No info,"Harbinger, Grief, Wasted","Reparto, Produccion, Sonido",0
+30,Cathryn Zambryscka,No info,"Blindness, A Little Monster Movie, Mother Knows Best",Reparto,0
+31,Adam Stainthorpe,No info,"Number 6, The Little Count, No info",Reparto,0
+32,Peter Cottle,No info,"Number 6, No info, No info",No info,0
+33,Jennifer Gothuey,No info,"Au bord du gouffre, Escamotage, No info",Reparto,0
+34,Appoline Heluin,No info,"Au bord du gouffre, No info, No info",Reparto,0
+35,Gabriel Ponthus,No info,"Merci Kiki!, Et Cetera, Au bord du gouffre",Reparto,0
+36,Leire Altamira,No info,"E-mocion, No info, No info",Reparto,0
+37,Irene Diez,No info,"E-mocion, No info, No info",Reparto,0
+38,Raquel Ferradas,No info,"Sweet Barrio: Llevame a Madrid, E-mocion, No info",Reparto,0
+39,Estelle Chen,No info,"Lian hua lou, Fairyland Lovers, Qie Ting Feng Ming",Reparto,0
+40,Chakradhar Dittakavi,No info,"Ee Shruthi Lo, No info, No info",Reparto,0
+41,U.V. Eranna,No info,"Ee Shruthi Lo, Nindu Chandrudu, Edhi Nijam","Reparto, Direccion",0
+42,Olga Mandrikova Lanceray,No info,"Region, Aquarius, Black Square","Produccion, Reparto",0
+43,Leo Willems,No info,"Trollie, Trollie: The Great Rescue, No info",Reparto,0
+44,Olga Zuiderhoek,1946,"Penoza, De 12 van Oldenheim, Suskind",Reparto,3
+45,Parry Glasspool,1992,"The Batman, Hollyoaks, Hollyoaks Later",Reparto,0
+46,Mikalai Radziush,No info,"Aquarius, Black Square, No info",Reparto,0
+47,Luis Alarcon,1929,"Estupido Cupido, La fiera, Tempano","Reparto, Efectos especiales, Produccion",4
+48,John Goodman,1952,"Calle Cloverfield 10, Barton Fink, Argo","Reparto, Produccion, Banda sonora",33
+49,Gal Gadot,1985,"Wonder Woman, Alerta roja, Wonder Woman 1984","Reparto, Produccion, Banda sonora",32
+50,Ben Affleck,1972,"Argo, Perdida, The Town: Ciudad de ladrones","Produccion, Reparto, Guion",75
+51,Tim Burleson,No info,"Excalibur Too, Burrito Tuesday!, Hamfisted",Reparto,0
+52,Emily Krayer,No info,"Excalibur Too, Tracks, No info","Reparto, Direccion de la segunda unidad o asistencia a direccion",0
+53,Calvin Henson Jr.,No info,"Alone in the Dark, All in the Family, Joe Haladin: The Case of the Missing Sister","Camara y electricidad, Reparto, Produccion",0
+54,Lilly Mae Stover,No info,"This Bloody Country, Lex Talionis, Navidades con encanto",Reparto,0
+55,Danielle Wolverton,No info,"War Stories, The Hunting Trip, The Eyes of Isabelle",Reparto,0
+56,Le Duy Anh,No info,"Our friendship is extremely Big, Iron-Lipstick, Hannah","Reparto, Guion, Produccion",0
+57,Hannah Bui,No info,"Hannah, Wayless, No info",No info,0
+58,Katerina Dawson,No info,"Harbinger, Grief, Wasted","Reparto, Produccion, Sonido",0
+59,Alanna Essenburg,No info,"A Scratching Sound, Leveler, No info",Reparto,0
+60,Johanna Anne Valentine,No info,"Writers Block Virginia Beach, Halloween Metal Detecting, On My Boat","Reparto, Edicion, Produccion",0
+61,Adler Wheatley,No info,"Blue Horizon, The Making Of, Cheetah Run",Reparto,0
+62,Ella Wheatley,No info,"The Making Of, Cheetah Run, No info",Reparto,0
+63,Edward King Thompson,No info,"Vanguards, Searching Malware, Egregore","Reparto, Direccion, Guion",0
+64,Ella Wheatley,No info,"The Making Of, Cheetah Run, No info",Reparto,0
+65,Kara Anderson,No info,"Strong Hawk: My Sister's Keeper, Hunting Season, Family First the Marshawn Lynch Story","Reparto, Vestuario",0
+66,Yosuke Eguchi,1967,"Kenshin, el guerrero samurai, Goemon, Kenshin, el guerrero samurai 2 Infierno en Kioto",Reparto,0
+67,Arata Furuta,1965,"13 asesinos, Capitan Harlock, Shin Godzilla",Reparto,0
+68,Chen Chaolang,No info,"Xue ji chuan, Ni hao, xi xue gui xiao jie, No info",Reparto,0
+69,Ming Wang,No info,"Xu ni shi jie, Yilu bu xiaoting, Xue ji chuan",Reparto,0
+70,Connie Castanzo,No info,"Pororo, Dinosaur Island Adventure, The Raft, Cauliflower",Reparto,0
+71,Kylee Claxton,No info,"The White Rose, Pororo, Dinosaur Island Adventure, No info",Reparto,0
+72,Ryan Guess,No info,"The Heller Awards, The Heller Awards, Herd","Reparto, Produccion, Direccion",0
+73,Jon Heder,1977,"Napoleon Dynamite, Patinazo a la gloria, Los calientabanquillos","Reparto, Produccion, Equipo ejecutivo",8
+74,Lee Jason,No info,"Free Fire, Cliches, Dancer In The Pocket","Reparto, Camara y electricidad",0
+75,Myeong So,No info,"Dancer In The Pocket, No info, No info",Reparto,0
+76,Gudsteinn Fannar Ellertsson,No info,"Rocco, Skinny Love, Bajo el sotano","Reparto, Guion, Camara y electricidad",0
+77,Sveinn Larus Hjartarsson,No info,"Null Null 9, Hittarar og Krittarar, No info",Reparto,0
+78,Oskar Thor Hauksson,No info,"La mujer de la montana, Skinny Love, Throt","Localizacion, Equipos adicionales, Reparto",0
+79,Sjafnar Bjorgvinsson,No info,"Kafteinn Kambur & Tryggvi Bladamadur, Svar vid brefi Helgu, Solveig min","Reparto, Produccion, Equipos adicionales",0
+80,Kristmundur Ari Gislason,No info,"Agente Stone, Kraven el cazador, Halo","Camara y electricidad, Reparto",0
+81,Gabriel Fannar Jonsson,No info,"Hittarar og Krittarar, No info, No info","Reparto, Arte",0
+82,Gudgeir Oskar Omarsson,No info,"Hittarar og Krittarar, No info, No info",Reparto,0
+83,Vincent Gosselin,No info,"Feerique, No info, No info",Reparto,0
+84,Emile Landriau,No info,"Thor: Love and Thunder, !Scooby!, !Nos volvemos a casa!","Animacion, Reparto, Efectos visuales",0
+85,Oskar Thor Hauksson,No info,"La mujer de la montana, Skinny Love, Throt","Localizacion, Equipos adicionales, Reparto",0
+86,Sjafnar Bjorgvinsson,No info,"Kafteinn Kambur & Tryggvi Bladamadur, Svar vid brefi Helgu, Solveig min","Reparto, Produccion, Equipos adicionales",0
+87,Kristmundur Ari Gislason,No info,"Agente Stone, Kraven el cazador, Halo","Camara y electricidad, Reparto",0
+88,Lara Kristin Margretar-Oskarsdottir,No info,"Rocco, Hittarar og Krittarar, No info","Reparto, Guion",0
+89,Gudgeir Oskar Omarsson,No info,"Hittarar og Krittarar, No info, No info",Reparto,0
+90,Theodora Grima Thrastardottir,No info,"Hittarar og Krittarar, No info, No info",Reparto,0
+91,Taylor Huff,No info,"Time Management, No info, No info",Reparto,0
+92,Nil Santana,No info,"Time Management, No info, No info",Reparto,0
+93,Yuliiya Barbashova,No info,"Pollen, No info, No info",Reparto,0
+94,Jon Weinberg,No info,"Funeral Day, Yes You Deserve It!, Shock Value","Reparto, Direccion, Produccion",2
+95,Emily Wyman,No info,"Gift, Assassinaut, Emerge","Reparto, Localizacion, Equipos adicionales",0
+96,Laki Karavias,No info,"The Night I Left America, 35 Years to the Moon, Messania's Story","Direccion, Edicion, Guion",2
+97,Jonathan Adonai,No info,"Tobias: Los videos perdidos, El Charro, ?Quien mato al tio Aurelio?",Reparto,0
+98,Atilano del Angel,No info,"El Encanto de la Oscuridad: Parte 1, Tobias: Los videos perdidos, ?Quien mato al tio Aurelio?",Reparto,0
+99,Alejandra Estrada,No info,"El Encanto de la Oscuridad: Parte 1, Andriev & Selene La Expulsion De Los Vampiros, Tobias: Los videos perdidos",Reparto,0
+100,Ines Grajeda,No info,"El Encanto de la Oscuridad: Parte 2, El Encanto de la Oscuridad: Parte 1, Tobias: Los videos perdidos",Reparto,0
+101,Berenice Ornelas,No info,"Tobias: Los videos perdidos, ?Quien mato al tio Aurelio?, No info",Reparto,0
+102,Litzy Paola,No info,"El Encanto de la Oscuridad: Parte 2, El Encanto de la Oscuridad: Parte 1, Tobias: Los videos perdidos",Reparto,0
+103,Tania Varela,No info,"El Encanto de la Oscuridad: Parte 1, Tobias: Los videos perdidos, No info",Reparto,0
+104,Aaron Green,No info,"Blueface Feat. DaBaby: Obama, Anamnesis of the Divine, No info","Reparto, Produccion",0
+105,Alex Seradj,No info,"Wild Fire, Anamnesis of the Divine, No info","Direccion, Reparto, Guion",0
+106,Mason Dodson,No info,"Going Over Home, The Resort, Stripping with Confetti","Reparto, Direccion",0
+107,Sydney K.,No info,"Men of West Hollywood, Gold Mine, Killer Therapy","Produccion, Edicion, Direccion",0
+108,Addie Wilder Smith,No info,"Stripping with Confetti, No info, No info",Reparto,0

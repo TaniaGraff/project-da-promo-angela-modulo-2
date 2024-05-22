@@ -3264,5 +3264,12 @@ ADD PRIMARY KEY (titulo);
 ALTER TABLE detalles_peliculas
 MODIFY COLUMN titulo varchar(255);
 
-
+/*Creamos la tabla para los actores*/
+CREATE table actores(
+nombre_actor VARCHAR(200) NOT NULL,
+anyo_nac INT,
+conocido_por VARCHAR(200),
+que_hace VARCHAR(200),
+premios_ganados INT,
+PRIMARY KEY (nombre_actor));
 
