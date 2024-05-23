@@ -3317,6 +3317,8 @@ HAVING valoracion_media = (
     ) AS subconsulta
 );
 
+-- La consulta devuelve Drama como el género mejor valorado con una puntuación media de 7.9
+
 -- CONSULTA 3
 -- ¿En qué año se estrenaron más películas?
 
@@ -3470,6 +3472,24 @@ num_oscars
 FROM actor_premios
 WHERE num_oscars > 1;
 -- RESULTADO: Ninguno, porque todos tienen solo un premio (entre 2015-2020)
+
+-- CONSULTA 8 BIS
+-- ¿Hay algun director/directora que haya recibido más de un premio Óscar?
+
+WITH director_premios AS (
+    -- Uso 'CTE' para separar el conteo de premios por director de la consulta principal
+    SELECT
+        mejor_director AS nombre_director,
+        COUNT(*) AS num_oscars
+    FROM oscars
+    GROUP BY mejor_director
+)
+-- consulta general: premios mayor que uno
+SELECT
+    nombre_director,
+    num_oscars
+FROM director_premios
+WHERE num_oscars > 1;
 
 -- BONUS: CONSULTA 9
 -- Encontrar películas con ciertas calificaciones
