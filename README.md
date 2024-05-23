@@ -80,32 +80,32 @@ En esta fase se pensó la estructura de una Base de Datos donde se almacenó tod
 
 ### Fase 6: 
 
-En esta fase se insertaron todos los datos en la Base de Datos diseñada durante la FASE 5.
+En esta fase se insertaron todos los registros en la Base de Datos diseñada durante la FASE 5.
 
 ### Fase 7:
 
 En esta útlima fase se realizaron consultas SQL para recuperar información específica y responder a las siguientes preguntas:
 
-    - ¿Qué géneros han recibido más premios Óscar?
+    1. ¿Qué géneros han recibido más premios Óscar?
 
-    - ¿Qué género es el mejor valorado en IMDB?
+    2. ¿Qué género es el mejor valorado en IMDB?
 
-    - ¿En qué año se estrenaron más películas?
+    3. ¿En qué año se estrenaron más películas?
 
-    - ¿En qué año se estrenaron mas cortos?
+    4. ¿En qué año se estrenaron mas cortos?
 
-    - ¿Cuál es la mejor serie valorada en IMDB?
+    5. ¿Cuál es la película mejor valorada en IMDB?
 
-    - ¿Cuál es la película mejor valorada en IMDB?
+    6. ¿Cuál es el corto mejor valorado en IMDB?
 
-    - ¿Qué actor/actriz ha recibido más premios?
+    7. ¿Qué actor/actriz ha recibido más premios?
 
-    - ¿Hay algun actor/actriz que haya recibido más de un premio Óscar?
+    8. ¿Hay algun actor/actriz o director/directora que haya recibido más de un premio Óscar?
 
-    - Encontrar películas con ciertas calificaciones
+    9. Encontrar películas con calificaciones del 5 al 8 en IMDB.
     
-    - Encontrar películas dirigidas por un director en particular
+    10. Encontrar películas dirigidas por un Guillermo del Toro. 
 
-    - Obtener una lista de películas fanadoras de un premio Oscar en una categoría específica
+    11. Obtener una lista de los dramas ganadores de un premio Oscar como mejor película.
 
-Por último, se elaboraron las conclusiones que han permitido al equipo proporcionar recomendaciones específicas para la promoción de contenido en la plataforma BHO.
+Por último y en base a los resultados de las consultas, se extrajeron las conclusiones que han permitido al equipo proporcionar recomendaciones específicas para la promoción de nuevo contenido en la plataforma BHO.
