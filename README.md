@@ -108,4 +108,4 @@ En esta útlima fase se realizaron consultas SQL para recuperar información esp
 
     11. Obtener una lista de los dramas ganadores de un premio Oscar como mejor película.
 
-Por último y en base a los resultados de las consultas, se extrajeron las conclusiones que han permitido al equipo proporcionar recomendaciones específicas para la promoción de nuevo contenido en la plataforma BHO.
+Por último y en base a los resultados de las consultas realizadas, se extrajeron las conclusiones que han permitido al equipo proporcionar recomendaciones específicas para la promoción de nuevo contenido en la plataforma BHO.
