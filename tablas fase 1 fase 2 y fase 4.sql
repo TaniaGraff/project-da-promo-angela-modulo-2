@@ -3273,3 +3273,7 @@ que_hace VARCHAR(200),
 premios_ganados INT,
 PRIMARY KEY (nombre_actor));
 
+SELECT *
+FROM actores;
+
+
