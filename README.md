@@ -98,14 +98,20 @@ En esta útlima fase se realizaron consultas SQL para recuperar información esp
 
     6. ¿Cuál es el corto mejor valorado en IMDB?
 
-    7. ¿Qué actor/actriz ha recibido más premios?
+    7. ¿Qué actor/actriz ha recibido más premios Oscars?
 
     8. ¿Hay algun actor/actriz o director/directora que haya recibido más de un premio Óscar?
-
-    9. Encontrar películas con calificaciones del 5 al 8 en IMDB.
     
-    10. Encontrar películas dirigidas por un Guillermo del Toro. 
+    9. ¿Qué actor/actriz ha recibido más premios?
 
-    11. Obtener una lista de los dramas ganadores de un premio Oscar como mejor película.
+    10. ¿En qué trabajan los actores, además de reparto?
+
+    11. ¿Quién es el actor más jóven?
+
+    12. Encontrar películas con calificaciones del 5 al 8 en IMDB.
+    
+    13. Encontrar películas dirigidas por un Guillermo del Toro. 
+
+    14. Obtener una lista de los dramas ganadores de un premio Oscar como mejor película.
 
 Por último y en base a los resultados de las consultas realizadas, se extrajeron las conclusiones que han permitido al equipo proporcionar recomendaciones específicas para la promoción de nuevo contenido en la plataforma BHO.
