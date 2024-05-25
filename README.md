@@ -108,7 +108,7 @@ En esta útlima fase se realizaron consultas SQL para recuperar información esp
 
     11. ¿Quién es el actor más jóven?
 
-    12. Encontrar películas con calificaciones del 5 al 8 en IMDB.
+    12. Encontrar películas con calificaciones del 7 al 10 en IMDB.
     
     13. Encontrar películas dirigidas por un Guillermo del Toro. 
 
