@@ -38,30 +38,28 @@ WHERE num_oscars = (
 -- CONSULTA 2
 -- ¿Qué género es el mejor valorado en IMDB?
 
-SELECT
-DISTINCT genero,
-AVG(puntuacion) AS valoracion
-FROM detalles_peliculas
-GROUP BY genero
-ORDER BY valoracion DESC
-LIMIT 1;
-
 -- Puede que existan dos o mas generos tengan la maxima valoracion
+-- Hago la consulta con dos CTE's
+WITH valoracion_genero AS ( -- calculo la valoracion media por genero
+    SELECT
+	peliculas_generos.genero,
+	AVG(detalles_peliculas.puntuacion) AS valoracion_media
+    FROM peliculas_generos
+    JOIN detalles_peliculas
+    ON peliculas_generos.id_imdb = detalles_peliculas.id_imdb
+    GROUP BY peliculas_generos.genero
+),
+max_valoracion AS ( -- busco la valoracion maxima
+    SELECT MAX(valoracion_media) AS valoracion_maxima
+    FROM valoracion_genero
+) -- consulta general donde selecciono los genero con valoracion maxima
 SELECT
-genero,
-AVG(puntuacion) AS valoracion_media
-FROM detalles_peliculas
-GROUP BY genero
-HAVING valoracion_media = (
-    SELECT MAX(avg_puntuacion)
-    FROM ( 
-        SELECT AVG(puntuacion) AS avg_puntuacion
-        FROM detalles_peliculas
-        GROUP BY genero
-    ) AS subconsulta
-);
-
--- La consulta devuelve Drama como el género mejor valorado con una puntuación media de 7.9
+valoracion_genero.genero,
+valoracion_genero.valoracion_media
+FROM valoracion_genero
+JOIN max_valoracion
+ON valoracion_genero.valoracion_media = max_valoracion.valoracion_maxima;
+-- RESULTADO: El genero Comedia tiene la valoracion maxima con 7.69 sobre 10
 
 -- CONSULTA 3
 -- ¿En qué año se estrenaron más películas?
@@ -236,12 +234,7 @@ FROM director_premios
 WHERE num_oscars > 1;
 
 
--- TABLA ACTORES
-
-SELECT *  # Miramos como es la tabla de actores
-FROM actores;
-
--- CONSULTA 10
+-- CONSULTA 9
 -- ¿Qué actor/actriz ha recibido más premios?
 SELECT nombre_actor, premios_ganados
 FROM actores
@@ -253,12 +246,17 @@ SELECT nombre_actor, premios_ganados
 FROM actores
 WHERE premios_ganados = (SELECT MAX(premios_ganados) FROM actores);
 
--- CONSULTA 11
--- quien es el actor más viejo?
+-- BONUS: CONSULTA 10
+-- en qué trabajan los actores, además de reparto?
+SELECT que_hace
+FROM actores
+WHERE que_hace NOT LIKE '%Reparto%';
+
+-- BONUS: CONSULTA 11
+-- quien es el actor más joven?
 SELECT nombre_actor, anyo_nac
 FROM actores
-WHERE anyo_nac = (SELECT MIN(anyo_nac) FROM actores);
-
+WHERE anyo_nac = (SELECT MAX(anyo_nac) FROM actores);
 
 -- BONUS: CONSULTA 12
 -- Encontrar películas con ciertas calificaciones
@@ -284,8 +282,4 @@ AND titulo IN(
 	SELECT mejor_pelicula
     FROM oscars);
     
--- BONUS: CONSULTA 15
--- en qué trabajan los actores, además de reparto?
-SELECT que_hace
-FROM actores
-WHERE que_hace NOT LIKE '%Reparto%';
+
