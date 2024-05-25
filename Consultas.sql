@@ -263,7 +263,8 @@ WHERE anyo_nac = (SELECT MAX(anyo_nac) FROM actores);
 
 SELECT titulo
 FROM detalles_peliculas
-WHERE puntuacion BETWEEN 5 AND 8;
+WHERE puntuacion BETWEEN 7 AND 10
+ORDER BY puntuacion DESC;
 
 -- BONUS: CONSULTA 13
 -- Encontrar películas dirigidas por un director en particular
