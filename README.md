@@ -2,7 +2,7 @@
 Explorando el Séptimo Arte a través de Datos y Tecnología.
 
 *Equipo de desarrollo*: 
-Elena Águila, Vanesa Díaz, Valentina Fisher, Tania Graff y Franca Tortarolo.
+[Elena Águila](https://github.com/eaguilag), Vanesa Díaz, [Valentina Fisher](https://github.com/ValeFischer), [Tania Graff](https://github.com/TaniaGraff/) y [Franca Tortarolo](https://github.com/FrancaTortaroloo).
 
 ## Resumen del Proyecto
 Identificar las películas y cortos más populares de los años 2015 a 2020, basándonos en criterios como las calificaciones o los premios recibidos, con el objetivo de proporcionar recomendaciones específicas para la promoción del contenido más relevante dentro de la plataforma de streaming BHO.
